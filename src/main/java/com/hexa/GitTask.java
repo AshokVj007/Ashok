@@ -12,5 +12,13 @@ public class GitTask {
 	private void m3() {
     System.out.println("Vengat");
 	}
+	
+	private void m6() {
+    System.out.println("Ragul");
+	}
+	
+	private void m7() {
+    System.out.println("Bala");
+	}
 
 }
