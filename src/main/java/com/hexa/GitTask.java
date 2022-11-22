@@ -6,8 +6,8 @@ public class GitTask {
      }
 	
 	private void m2() {
-   System.out.println("Aravi");
-   }
+    System.out.println("Aravi");
+    }
 	
 	private void m3() {
     System.out.println("Vengat");
@@ -16,9 +16,16 @@ public class GitTask {
 	private void m4() {
     System.out.println("Mullai");
     }
-	
-	private void m5() {
+		
+    private void m5() {
     System.out.println("Antony");
 	}
 
+	private void m6() {
+    System.out.println("Ragul");
+	}
+	
+	private void m7() {
+    System.out.println("Bala");
+    }
 }
